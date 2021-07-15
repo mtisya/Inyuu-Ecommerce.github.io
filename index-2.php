@@ -21,7 +21,7 @@
 <p></p>
 <div>
 	<a class="orange" href="index.html"></a>
-    <a class="blue" href="blue1/index.html"></a>
+    <a class="blue" href="blue/index.html"></a>
     <a class="green" href="green1/index.html"></a>
     <a class="pink" href="pink1/index.html"></a>
     <a class="niagara" href="niagara1/index.html"></a>
