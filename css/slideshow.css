@@ -9,7 +9,11 @@
  
 /* The Nivo Slider styles */
 .slider-wrapper { margin-bottom: 20px; position:relative; }
+<<<<<<< HEAD
 .nivoSlider { position:relative; width:100%; height:auto; overflow: hidden; background:url(../image/loading.gif) no-repeat 50% 50%; }
+=======
+.nivoSlider { position:relative; width:10%; height:50%; overflow: hidden; background:url(../image/loading.gif) no-repeat 50% 50%; }
+>>>>>>> 871c60c58f9ced719f60f80c91f5771ff4b0d79b
 .nivoSlider img { position:absolute; top:0px; left:0px; max-width: none; }
 .nivo-main-image { display: block !important; position: relative !important; width: 100% !important; }
 /* If an image is wrapped in a link */
